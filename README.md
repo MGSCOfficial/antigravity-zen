@@ -3,19 +3,11 @@
 > **Dynamic Blackboard & Cognitive Hygiene Engine for Google Antigravity**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Compatibility](https://img.shields.io/badge/Antigravity-2.0+-emerald.svg)](https://github.com/MGSCOfficial/openbridge)
+[![Compatibility](https://img.shields.io/badge/Antigravity-2.0+-emerald.svg)](#)
 
 **Antigravity Zen** es un sistema agéntico avanzado diseñado para auditar, mitigar y erradicar el estrés cognitivo, la saturación de memoria de trabajo, los bucles de error (*looping hallucinations*) y la degradación progresiva de contexto (*Context Rot*) en **Google Antigravity**
 
 Provee una arquitectura de **Pizarra Dinámica persistente fuera de contexto** (`.zen/blackboard.md`), consolidación de memoria CONCAT, hooks cognitivos automatizados y una interfaz CLI de alta velocidad (`zen.py`).
-
----
-
-## ⚡ Sinergia con OpenBridge
-
-Antigravity Zen es el complemento cognitivo ideal para [OpenBridge MCP](https://github.com/MGSCOfficial/openbridge):
-* **OpenBridge** desvía las tareas mecánicas y pesadas de código hacia modelos satélites gratuitos ($0 cost).
-* **Antigravity Zen** mantiene la ventana de contexto del agente principal limpia y protegida de la saturación, registrando el progreso de los workers en la Pizarra Dinámica sin contaminar la memoria conversacional.
 
 ---
 
