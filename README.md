@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Compatibility](https://img.shields.io/badge/Antigravity-2.0+-emerald.svg)](https://github.com/MGSCOfficial/openbridge)
 
-**Antigravity Zen** es un sistema agéntico avanzado diseñado para auditar, mitigar y erradicar el estrés cognitivo, la saturación de memoria de trabajo, los bucles de error (*looping hallucinations*) y la degradación progresiva de contexto (*Context Rot*) en **Google Antigravity** y agentes de codificación autónomos.
+**Antigravity Zen** es un sistema agéntico avanzado diseñado para auditar, mitigar y erradicar el estrés cognitivo, la saturación de memoria de trabajo, los bucles de error (*looping hallucinations*) y la degradación progresiva de contexto (*Context Rot*) en **Google Antigravity**
 
 Provee una arquitectura de **Pizarra Dinámica persistente fuera de contexto** (`.zen/blackboard.md`), consolidación de memoria CONCAT, hooks cognitivos automatizados y una interfaz CLI de alta velocidad (`zen.py`).
 
