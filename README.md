@@ -1,6 +1,6 @@
 # Antigravity Zen 🧘
 
-> **Dynamic Blackboard & Cognitive Hygiene Engine for Google Antigravity & LLM Coding Agents**
+> **Dynamic Blackboard & Cognitive Hygiene Engine for Google Antigravity**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Compatibility](https://img.shields.io/badge/Antigravity-2.0+-emerald.svg)](https://github.com/MGSCOfficial/openbridge)
