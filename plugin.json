@@ -1,0 +1,28 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "antigravity-zen",
+  "displayName": "Cognitive Hygiene and Dynamic Blackboard",
+  "version": "1.0.0",
+  "description": "Previene el estrés cognitivo, la degradación de atención multi-turno y el context rot en Gemini y Claude mediante hooks deterministas, pizarra dinámica y consolidación CONCAT.",
+  "suggestedPrompts": [
+    "Ejecuta zen audit para evaluar el estrés del contexto actual",
+    "Consulta la pizarra dinámica con zen board",
+    "Genera un checkpoint consolidado CONCAT para limpiar el contexto con zen checkpoint",
+    "Delega la exploración profunda de este bug al subagente zen-investigator"
+  ],
+  "author": {
+    "name": "MGSCO & AI Cognitive Architecture",
+    "url": "https://antigravity.google/docs"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "context-rot",
+    "cognitive-load",
+    "blackboard",
+    "mindfulness",
+    "compaction",
+    "gemini",
+    "claude",
+    "hooks"
+  ]
+}
