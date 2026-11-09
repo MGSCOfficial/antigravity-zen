@@ -68,7 +68,6 @@ antigravity-zen/
 ### 1. Como Skill Global de Agente
 Copia la carpeta `antigravity-zen` dentro de tu directorio de skills agénticas:
 * **Windows**: `C:\Users\<USUARIO>\.agents\skills\antigravity-zen\`
-* **Linux / macOS**: `~/.agents/skills/antigravity-zen/`
 
 ### 2. Uso en Turno Agéntico
 Invoca `/antigravity-zen` o el comando `/zen-reset` en el chat cuando una sesión supere los 8-10 turnos o tras detectar divergencias técnicas.
